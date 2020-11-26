@@ -1,0 +1,48 @@
+{
+  "title": "سلام من مجتبی فعله نژاد هستم",
+  "subtitle": "برنامه نویس اندروید | طراح رابط کاربری",
+  "links": {
+    "github": "https://www.instagram.com/mojte2/",
+    "twiter": "https://twitter.com/mojte2"
+  },
+  "section": [
+    {
+      "title": "درباره",
+      "itmes": [
+        {
+          "type": "p",
+          "content": "برنامه نویسی و طراحی رو خیلی دوست دارم در تلاشم طراحی های جذاب هنری رو با طراحی وب ترکیب کنم "
+        }
+      ]
+    },
+    {
+      "title": "مهارت ها",
+      "itmes": [
+        {
+          "type": "card",
+          "content": {
+            "image": "url",
+            "title": "JAVASCRIPT"
+            ,"text":"برنامه نویسی جاوا اسکریپت رو کمی بلدم "
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "url",
+            "title": "ANDROID"
+            ,"text":"مدت خیلی زیادی اندروید کار کردم و کنار گزاشتمش بعدش "
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "url",
+            "title": "REACT"
+            ,"text":"کمی ری اکت بلدم ولی در تلاشم بیشتر یاد بگیرم "
+          }
+        }
+      ]
+    }
+  ]
+}
